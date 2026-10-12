@@ -1,9 +1,9 @@
 # Table of contents
 1. [CV](#cv)
 2. [Games](#games)  
-    1.[Seedsters](##seedsters)  
-    2.[Go my scarab](##go-my-scarab)  
-    3.[Sokoban project](##sokoban-project)  
+    1.[Seedsters](#seedsters)  
+    2.[Go my scarab](#go-my-scarab)  
+    3.[Sokoban project](#sokoban-project)  
 
 
 # CV
