@@ -7,13 +7,13 @@ Inserts text here
 Engine: Unity
 Language: C#
 
-Link: (https://yrgo.itch.io/seedsters)
+Link: https://yrgo.itch.io/seedsters
 
 ## Go my scarab
 Engine: Unreal
 Language: Blueprints
 
-Link: (https://yrgo.itch.io/go-my-scarab)
+Link: https://yrgo.itch.io/go-my-scarab
 
 insert images here
 
