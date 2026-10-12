@@ -1,7 +1,11 @@
-# CV
+#Table of contents
+[^1] CV
+[^2] Games
+
+[^1]# CV
 Inserts text here
 
-# Games
+[^2]# Games
 
 ## Seedsters
 Engine: Unity  
