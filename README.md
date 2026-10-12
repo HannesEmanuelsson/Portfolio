@@ -9,7 +9,7 @@ Language: C#
 
 [Itch Link](https://yrgo.itch.io/seedsters)
 
-![SPowerScreen]
+![SPowerUpScreen]
 ![SPowerUpExample]
 
 ## Go my scarab
