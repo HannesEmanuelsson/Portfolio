@@ -4,13 +4,13 @@ Inserts text here
 # Games
 
 ## Seedsters
-Engine: Unity
+Engine: Unity  
 Language: C#
 
 Link: https://yrgo.itch.io/seedsters
 
 ## Go my scarab
-Engine: Unreal
+Engine: Unreal  
 Language: Blueprints
 
 Link: https://yrgo.itch.io/go-my-scarab
@@ -18,7 +18,7 @@ Link: https://yrgo.itch.io/go-my-scarab
 insert images here
 
 ## Sokoban Project
-Engine: N/A
+Engine: N/A  
 Language: C++
 
 insert link here
