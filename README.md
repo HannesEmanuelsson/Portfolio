@@ -1,11 +1,11 @@
 # Table of contents
-1. CV[^1]
-2. Games[^2]
+1. [CV][#cv]
+2. [Games](#games)
 
-[^1]: # CV
+# CV
 Inserts text here
 
-[^2]: # Games
+# Games
 
 ## Seedsters
 Engine: Unity  
