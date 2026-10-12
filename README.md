@@ -1,12 +1,4 @@
 # Portfolio
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+###### text
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-<img src="fire_hazard_icons.png"  width="250" />
-</body>
-</html>
+![alt text](https://https://github.com/HannesEmanuelsson/Portfolio/tree/main/src/fire_hazard_icons.png "Logo Title Text 1")
