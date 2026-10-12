@@ -1,6 +1,6 @@
 #Table of contents
-[^1] CV
-[^2] Games
+1. CV[^1]
+2. Games[^2]
 
 [^1]: # CV
 Inserts text here
