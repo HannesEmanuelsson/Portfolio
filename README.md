@@ -1,4 +1,4 @@
 # Portfolio
 ###### text
-
-![alt text](https://https://github.com/HannesEmanuelsson/Portfolio/tree/main/src/fire_hazard_icons.png "Logo Title Text 1")
+[TestImage] = https://github.com/HannesEmanuelsson/Portfolio/tree/main/src/fire_hazard_icons.png
+![Example Image][TestImage]
