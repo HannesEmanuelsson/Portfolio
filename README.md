@@ -9,6 +9,9 @@ Language: C#
 
 [Itch Link](https://yrgo.itch.io/seedsters)
 
+![SPowerScreen]
+![SPowerUpExample]
+
 ## Go my scarab
 Engine: Unreal  
 Language: Blueprints
@@ -26,5 +29,8 @@ insert link here
 insert images here
 
 ![alt text][logo]
+
+[SPowerUpScreen]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/SeedStersPowerUpScreen.png
+[SPowerUpExample]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/SeedStersPowerUpScreen.png
 
 [logo]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/fire_hazard_icons.png "Logo Title Text 2"
