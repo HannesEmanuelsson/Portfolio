@@ -1,6 +1,10 @@
 # Table of contents
-1. [CV][#cv]
+1. [CV](#cv)
 2. [Games](#games)
+  1.[Seedsters](##seedsters)
+  2.[Go my scarab](##go-my-scarab)
+  3.[Sokoban project](##sokoban-project)
+
 
 # CV
 Inserts text here
@@ -24,7 +28,7 @@ Language: Blueprints
 
 insert images here
 
-## Sokoban Project
+## Sokoban project
 Engine: N/A  
 Language: C++
 
