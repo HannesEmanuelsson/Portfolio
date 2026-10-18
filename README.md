@@ -1,14 +1,10 @@
 # Table of contents
-1. [CV](#cv)  
-    1.[Work Experience](#work_experience)  
-    2.[Skills](#skills)  
-    3.[Education](#education)  
-    4.[Languages](#languages)  
-3. [Games](#games)  
-    1.[Seedsters](#seedsters)  
-    2.[Go my scarab](#go-my-scarab)  
-    3.[Sokoban project](#sokoban-project)
-4. [Contact](#contact)
+*. [CV](#cv)  
+    *.[Work Experience](#work_experience)  
+    *.[Skills](#skills)  
+    *.[Education](#education)  
+    *.[Languages](#languages)  
+*. [Contact](#contact)
 
 
 # CV
