@@ -1,10 +1,10 @@
 # Table of contents
-*[CV](#cv)  
-    *[Work Experience](#work_experience)  
-    *[Skills](#skills)  
-    *[Education](#education)  
-    *[Languages](#languages)  
-*[Contact](#contact)
+* [CV](#cv)  
+    * [Work Experience](#work_experience)  
+    * [Skills](#skills)  
+    * [Education](#education)  
+    * [Languages](#languages)  
+* [Contact](#contact)
 
 
 # CV
