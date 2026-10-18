@@ -77,6 +77,10 @@ insert images here
 
 # Contact
 
+<img src="https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/steamicon.png" alt="drawing" width="50"/>
 
+[SteamIcon]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/steamicon.png
+[MailIcon]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/mailicon.png
+[LinkedInIcon]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/linkedinicon.png
 [SPowerUpScreen]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/SeedStersPowerUpScreen.png
 [SPowerUpExample]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/SeedStersPowerUpScreen.png
