@@ -28,7 +28,7 @@ Developed the game manager for efficient level switching, score keeping and inte
 
 ### Fullstack developer - [Seedsters](https://yrgo.itch.io/seedsters)
 #### December 2025
-Developed both backend and frontend features like core game mechanics and infastructure  
+Developed both backend and frontend features like core game mechanics and infrastructure  
 *C#, Unity, Visual Studio*
 
 ## Skills
