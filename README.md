@@ -1,12 +1,3 @@
-# Table of contents
-* [CV](#cv)  
-    * [Work Experience](#work_experience)  
-    * [Skills](#skills)  
-    * [Education](#education)  
-    * [Languages](#languages)  
-* [Contact](#contact)
-
-
 # CV
 I'm a game developer currently based in Gothenburg, Sweden, graduating from Yrgo - Game development program in June 2027.  
 I've been creating games as a Unity developer for 5 years, mostly in Visual studio with C#.  
