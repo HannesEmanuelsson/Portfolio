@@ -77,7 +77,7 @@ insert images here
 
 # Contact
 
-<img src="https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/steamicon.png" alt="drawing" width="200"/>
+<img src="https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/steamicon.png" alt="drawing" width="50"/>
 
 [SteamIcon]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/steamicon.png
 [MailIcon]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/mailicon.png
