@@ -77,7 +77,10 @@ insert images here
 
 # Contact
 
-<p><img src="https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/steamicon.png" alt="steam icon" width="25"/> dwadsdwads<p>
+<img src="https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/mailicon.png" alt="steam icon" width="25"/>
+<img src="https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/linkedinicon.png" alt="steam icon" width="25"/>
+<img src="https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/githubicon.png" alt="steam icon" width="25"/>
+<img src="https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/itchicon.png" alt="steam icon" width="25"/>
 
 [SteamIcon]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/steamicon.png
 [MailIcon]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/mailicon.png
