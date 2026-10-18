@@ -32,9 +32,9 @@ Developed both backend and frontend features like core game mechanics and infras
 *C#, Unity, Visual Studio*
 
 ## Skills
-### Languages
+### Programming Languages
 C#, C++, Python, GdScript
-### Gamedev
+### Game Engines
 Unity, Unreal
 ### Tools
 Visual Studio, Helix
