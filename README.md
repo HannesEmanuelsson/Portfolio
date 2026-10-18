@@ -16,7 +16,7 @@ I've been creating games as a Unity developer for 5 years, mostly in Visual stud
 
 I love teamwork, and I love working in small teams where everyone knows each other, and everyone's work matters.
 
-Besides development, I'm passionate about video games (obviously).
+Besides development, I'm very passionate about video games.
 
 ## Work Experience
 ### Fullstack developer - [Seedsters](#seedsters)
