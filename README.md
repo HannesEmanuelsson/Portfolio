@@ -42,13 +42,12 @@ Visual Studio, Helix
 ## Education
 ### Yrgo 2025-present
 Game Developer  
-Speciality in unity and unreal development
+Speciality in Unity and Unreal development
 ### LBS 2022-2025
 Game development - The Technology Programme
 
 ## Languages
 ### English
-Fluent in both british and american
 ### Swedish
 My native language
 # Contact
