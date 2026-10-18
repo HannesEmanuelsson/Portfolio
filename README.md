@@ -9,6 +9,25 @@
 # CV
 Inserts text here
 
+## Work Experience
+### Fullstack developer - [Seedsters](#seedsters)
+#### December 2025
+Developed both backend and frontend features like core game mechanics and infastructure
+*C#, Unity, visual studio*
+
+### Backend developer - [Go my scarab](#go_my_scarab)
+#### May - June 2026
+Developed the 
+*C++. Blueprints, Unreal Engine*
+
+### Lead developer - [Postponed Porpulsion](#postponed_propulsion)
+#### September 2026
+Developed the core gameplay mechanics and rendering infastructure
+*c++, Helix*
+
+## Skills
+---- testing
+
 # Games
 
 ## Seedsters
