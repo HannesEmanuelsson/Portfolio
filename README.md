@@ -8,7 +8,7 @@
 
 
 # CV
-I'm a game developer currently based in Gothenburg, Sweden, graduating from Yrgo - Game development programme in June 2027.  
+I'm a game developer currently based in Gothenburg, Sweden, graduating from Yrgo - Game development program in June 2027.  
 I've been creating games as a Unity developer for 5 years, mostly in Visual studio with C#.  
 
 I love teamwork, and I love working in small teams where everyone knows each other, and everyone's work matters.
@@ -44,7 +44,7 @@ Visual Studio, Helix
 Game Developer  
 Speciality in Unity and Unreal development
 ### LBS 2022-2025
-Game development - The Technology Programme
+Game development - The Technology Program
 
 ## Languages
 ### English
