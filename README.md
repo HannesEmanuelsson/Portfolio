@@ -62,15 +62,13 @@ Language: C#
 ![SPowerUpScreen]
 ![SPowerUpExample]
 
-## Go my scarab
+## [Go my scarab](https://yrgo.itch.io/go-my-scarab)
 Engine: Unreal  
 Language: Blueprints
 
-[Itch Link](https://yrgo.itch.io/go-my-scarab)
-
 insert images here
 
-## Sokoban project
+## [Sokoban project](https://dumlo.itch.io/postponed-propulsion)
 Engine: N/A  
 Language: C++
 
