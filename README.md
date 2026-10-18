@@ -19,20 +19,20 @@ I love teamwork, and I love working in small teams where everyone knows each oth
 Besides development, I'm very passionate about video games.
 
 ## Work Experience
-### Fullstack developer - [Seedsters](#seedsters)
-#### December 2025
-Developed both backend and frontend features like core game mechanics and infastructure
-*C#, Unity, visual studio*
+### Lead developer - [Postponed Porpulsion](#postponed_propulsion)
+#### September 2026
+Developed architecture for the render and animation, as well as the main core gameplay mechanics  
+*c++, Helix*
 
 ### Backend developer - [Go my scarab](#go_my_scarab)
 #### May - June 2026
 Developed the 
 *C++. Blueprints, Unreal Engine*
 
-### Lead developer - [Postponed Porpulsion](#postponed_propulsion)
-#### September 2026
-Developed architecture for the render and animation, as well as the main core gameplay mechanics  
-*c++, Helix*
+### Fullstack developer - [Seedsters](#seedsters)
+#### December 2025
+Developed both backend and frontend features like core game mechanics and infastructure
+*C#, Unity, visual studio*
 
 ## Skills
 ### Languages
