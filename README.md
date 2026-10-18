@@ -22,7 +22,7 @@ Besides development, I'm very passionate about video games (Obviously).
 ### Lead developer - [Postponed Porpulsion](#postponed_propulsion)
 #### September 2026
 Developed architecture for the render and animation, as well as the main core gameplay mechanics  
-*c++, Helix*
+*C++, Helix*
 
 ### Backend developer - [Go my scarab](#go_my_scarab)
 #### May - June 2026
@@ -53,10 +53,8 @@ Game development - The Technology Programme
 ### English
 Fluent in both british and american
 ### Swedish
-My mother tongue
-
+My native language
 # Games
-
 ## Seedsters
 Engine: Unity  
 Language: C#
