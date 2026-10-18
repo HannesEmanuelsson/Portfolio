@@ -55,11 +55,9 @@ Fluent in both british and american
 ### Swedish
 My native language
 # Games
-## Seedsters
+## [Seedsters](https://yrgo.itch.io/seedsters)
 Engine: Unity  
 Language: C#
-
-[Itch Link](https://yrgo.itch.io/seedsters)
 
 ![SPowerUpScreen]
 ![SPowerUpExample]
@@ -79,6 +77,9 @@ Language: C++
 insert link here
 
 insert images here
+
+
+
 
 [SPowerUpScreen]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/SeedStersPowerUpScreen.png
 [SPowerUpExample]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/SeedStersPowerUpScreen.png
