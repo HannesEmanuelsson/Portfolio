@@ -23,8 +23,8 @@ Developed architecture for the render and animation, as well as the main core ga
 
 ### Backend developer - [Go my scarab](https://yrgo.itch.io/go-my-scarab)
 #### May - June 2026
-Developed the 
-*C++. Blueprints, Unreal Engine*
+Developed the game manager and save data infastructure
+*C++, Blueprints, Unreal Engine*
 
 ### Fullstack developer - [Seedsters](https://yrgo.itch.io/seedsters)
 #### December 2025
