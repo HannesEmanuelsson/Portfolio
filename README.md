@@ -1,6 +1,10 @@
 # Table of contents
 1. [CV](#cv)
-2. [Games](#games)  
+    1.[Work Experience](#work_experience)
+    2.[Skills](#skills)
+    3.[Education](#education)
+    4.[Languages](#languages)
+3. [Games](#games)  
     1.[Seedsters](#seedsters)  
     2.[Go my scarab](#go-my-scarab)  
     3.[Sokoban project](#sokoban-project)  
@@ -22,11 +26,29 @@ Developed the
 
 ### Lead developer - [Postponed Porpulsion](#postponed_propulsion)
 #### September 2026
-Developed the core gameplay mechanics and rendering infastructure
+Developed architecture for the render and animation, as well as the main core gameplay mechanics  
 *c++, Helix*
 
 ## Skills
----- testing
+### Languages
+C#, C++, Python, GdScript
+### Gamedev
+Unity, Unreal
+### Tools
+Visual Studio, Helix
+
+## Education
+### Yrgo 2025-present
+Game Developer  
+Speciality in unity and unreal development
+### LBS 2022-2025
+Game development - The Technology Programme
+
+## Languages
+### English
+Fluent in both british and american
+### Swedish
+My mother tongue
 
 # Games
 
