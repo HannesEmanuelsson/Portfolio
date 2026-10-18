@@ -40,7 +40,6 @@ Game development - The Technology Program
 ## Languages
 ### English
 ### Swedish
-My native language
 # Contact
 
 <img src="https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/mailicon.png" alt="mail icon" width="25"/> [HannesEmanuelsson@gmail.com](HannesEmanuelsson@gmail.com)  
