@@ -7,7 +7,8 @@
 3. [Games](#games)  
     1.[Seedsters](#seedsters)  
     2.[Go my scarab](#go-my-scarab)  
-    3.[Sokoban project](#sokoban-project)  
+    3.[Sokoban project](#sokoban-project)
+4. [Contact](#contact)
 
 
 # CV
@@ -72,11 +73,9 @@ insert images here
 Engine: N/A  
 Language: C++
 
-insert link here
-
 insert images here
 
-
+# Contact
 
 
 [SPowerUpScreen]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/SeedStersPowerUpScreen.png
