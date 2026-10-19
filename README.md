@@ -26,7 +26,7 @@ Developed both backend and frontend features like core game mechanics and infras
 ### Programming Languages
 C#, C++, Python, GdScript
 ### Game Engines
-Unity, Unreal
+Unity, Unreal, Godot
 ### Tools
 Visual Studio, Helix, Excel
 
