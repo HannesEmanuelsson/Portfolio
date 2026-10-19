@@ -1,6 +1,6 @@
 # CV
 I'm a game developer currently based in Gothenburg, Sweden, graduating from Yrgo - Game development program in June 2027.  
-I've been working with C# and Unity for 5 years.  
+I've been working with game development for 5 years, mostly in Unity and C#.  
 
 I love working in small teams where everyone knows each other, and everyone's work matters.
 
