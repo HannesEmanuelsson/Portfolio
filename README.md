@@ -41,7 +41,6 @@ Game development - The Technology Program
 English  
 Swedish
 # Contact
-
 <img src="./src/mailicon.png" alt="mail icon" width="25"/> [HannesEmanuelsson@gmail.com](HannesEmanuelsson@gmail.com)  
 <img src="./src/linkedinicon.png" alt="linkedin icon" width="25"/> [LinkedIn](https://www.linkedin.com/in/hannes-emanuelsson-82754b383/)  
 <img src="./src/githubicon.png" alt="github icon" width="25"/> [Github](https://github.com/HannesEmanuelsson)  
