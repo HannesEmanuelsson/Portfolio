@@ -1,6 +1,5 @@
 <html>
-<body style="background-color:black;">
-<font style="color: white">
+<body style="background-color:gray;">
 
 </body>
 </html>
