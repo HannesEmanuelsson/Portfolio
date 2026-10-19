@@ -48,10 +48,10 @@ English
 Swedish
 # Contact
 
-<img src="/src/mailicon.png" alt="mail icon" width="25"/> [HannesEmanuelsson@gmail.com](HannesEmanuelsson@gmail.com)  
-<img src="/src/linkedinicon.png" alt="linkedin icon" width="25"/> [LinkedIn](https://www.linkedin.com/in/hannes-emanuelsson-82754b383/)  
-<img src="/src/githubicon.png" alt="github icon" width="25"/> [Github](https://github.com/HannesEmanuelsson)  
-<img src="/src/itchicon.png" alt="itch icon" width="25"/> [Itch](https://hannesemanuelsson.itch.io)
+<img src="./src/mailicon.png" alt="mail icon" width="25"/> [HannesEmanuelsson@gmail.com](HannesEmanuelsson@gmail.com)  
+<img src="./src/linkedinicon.png" alt="linkedin icon" width="25"/> [LinkedIn](https://www.linkedin.com/in/hannes-emanuelsson-82754b383/)  
+<img src="./src/githubicon.png" alt="github icon" width="25"/> [Github](https://github.com/HannesEmanuelsson)  
+<img src="./src/itchicon.png" alt="itch icon" width="25"/> [Itch](https://hannesemanuelsson.itch.io)
 
 [SteamIcon]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/steamicon.png
 [MailIcon]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/mailicon.png
