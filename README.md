@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:gray;">
+<body style="background-color:gray">
 
 </body>
 </html>
