@@ -1,12 +1,6 @@
-<html>
-<body style="background-color:black;">
-
-</body>
-</html>
-
 # CV
 I'm a game developer currently based in Gothenburg, Sweden, graduating from Yrgo - Game development program in June 2027.  
-I've been creating games as a Unity developer for 5 years, mostly in Visual studio with C#.  
+I've been working with C# and Unity developer for 5 years, mostly in Visual studio with C#.  
 
 I love working in small teams where everyone knows each other, and everyone's work matters.
 
@@ -48,10 +42,10 @@ English
 Swedish
 # Contact
 
-<img src="https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/mailicon.png" alt="mail icon" width="25"/> [HannesEmanuelsson@gmail.com](HannesEmanuelsson@gmail.com)  
-<img src="https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/linkedinicon.png" alt="linkedin icon" width="25"/> [LinkedIn](https://www.linkedin.com/in/hannes-emanuelsson-82754b383/)  
-<img src="/src/githubicon.png" alt="github icon" width="25"/> [Github](https://github.com/HannesEmanuelsson)  
-<img src="/src/itchicon.png" alt="itch icon" width="25"/> [Itch](https://hannesemanuelsson.itch.io)
+<img src="./src/mailicon.png" alt="mail icon" width="25"/> [HannesEmanuelsson@gmail.com](HannesEmanuelsson@gmail.com)  
+<img src="./src/linkedinicon.png" alt="linkedin icon" width="25"/> [LinkedIn](https://www.linkedin.com/in/hannes-emanuelsson-82754b383/)  
+<img src="./src/githubicon.png" alt="github icon" width="25"/> [Github](https://github.com/HannesEmanuelsson)  
+<img src="./src/itchicon.png" alt="itch icon" width="25"/> [Itch](https://hannesemanuelsson.itch.io)
 
 [SteamIcon]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/steamicon.png
 [MailIcon]: https://github.com/HannesEmanuelsson/Portfolio/blob/main/src/mailicon.png
