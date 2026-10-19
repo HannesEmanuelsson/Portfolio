@@ -28,7 +28,7 @@ C#, C++, Python, GdScript
 ### Game Engines
 Unity, Unreal
 ### Tools
-Visual Studio, Helix
+Visual Studio, Helix, Excel
 
 ## Education
 ### Yrgo 2025-present
