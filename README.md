@@ -11,7 +11,7 @@ Besides development, I'm very passionate about video games (Obviously).
 #### September 2026
 Developed architecture for the render and animation, as well as the main core gameplay mechanics  
 *C++, Helix*  
-<img src="./src/Posponed-Gif.gif" alt="mail icon" width="500"/> 
+<img src="./src/Posponed-Gif.gif" alt="mail icon" width="250"/> 
 ### Backend developer - [Go my scarab](https://yrgo.itch.io/go-my-scarab)
 #### May - June 2026
 Developed the game manager for efficient level switching, score keeping and internal game timer    
